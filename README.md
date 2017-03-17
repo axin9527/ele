@@ -1,6 +1,6 @@
 # eleme
 
-《[仿天猫商城](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=638&extra=page%3D1)》
+《[饿了么](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=638&extra=page%3D1)》
 
 作者：ringking
 
