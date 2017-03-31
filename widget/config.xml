@@ -1,9 +1,9 @@
-<widget id="A6961757803844"  version="0.0.1">
+<widget id="A6945496179995"  version="0.0.1">
 	<name>ele</name>
 	<description>
 	仿饿了么
 	</description>
-	<author email="2743481639@qq.com" href="2743481639@qq.com">
+	<author email="1926055468@qq.com" href="1926055468@qq.com">
 	2743481639
 	</author>
 	<content src="index.html" />
@@ -17,7 +17,7 @@
 	<preference name="fullScreen" value="false"/>  
 	<preference name="autoUpdate" value="true"/>  
 	<preference name="smartUpdate" value="false"/>  
-	<preference name="debug" value="false"/>  
+	<preference name="debug" value="true"/>  
 	<preference name="statusBarAppearance" value="true"/>  
 	<permission name="readPhoneState"/>  
 	<permission name="camera"/>  
